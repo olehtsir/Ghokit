@@ -4,12 +4,10 @@
 //     console.log(x);
 // }
 
-
-let userAge = +prompt("How old are you?");
+/*let userAge = +prompt("How old are you?");
 
 if(userAge >= 18){
     alert("Welcome");
 } else{
     alert("You can't open this page");
-}
-
+}*/
