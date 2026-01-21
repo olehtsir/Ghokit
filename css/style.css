@@ -85,7 +85,7 @@ a {
    gap: 10px;
 
    height: 50px;
-   padding: 0 18px;
+   padding: 0 12px;
    border-radius: 999px;
 
    font-family: "DM Sans", sans-serif;
@@ -518,16 +518,9 @@ a {
    }
 
    .header__inner {
+      display: flex;
       flex-direction: column;
-   }
-
-   .nav__list {
-      flex-wrap: wrap;
-      justify-content: center;
-   }
-
-   .stats {
-      grid-template-columns: 1fr;
+      gap: 18px;
    }
 
    .grid--2 {
